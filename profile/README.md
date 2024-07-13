@@ -1,12 +1,6 @@
-## Hi there 👋
+# Intro
+Hey! These are mods for V Rising created by [SkyTech6](https://github.com/SkyTech6), game developer of [Fishagon LLC](https://fishagon.com). All of these repos are open to Pull Requests from the V Rising Modding community. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you want to support any of these mods consider either of these ways to support the developer!
+1) [Buy my game on Steam :D](https://store.steampowered.com/app/713740/Train_Your_Minibot/)
+2) [Donation on Ko-Fi](https://ko-fi.com/skytech6)
